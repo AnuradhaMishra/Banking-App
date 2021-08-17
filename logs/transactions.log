@@ -1,0 +1,21 @@
+2021-07-27 23:52:25,738 [      LoginCustomer.java:main:76] - 12 deposit of INR 200 on Tue Jul 27 23:52:25 IST 2021 was successful
+2021-07-28 00:30:07,972 [      LoginCustomer.java:main:99] - 10 withdraw of INR 200 on Wed Jul 28 00:30:07 IST 2021 was successful
+2021-07-28 00:32:11,988 [      LoginCustomer.java:main:99] - 12 withdraw of INR 100000 on Wed Jul 28 00:32:11 IST 2021 was successful
+2021-07-28 00:43:29,942 [      LoginCustomer.java:main:76] - 10 deposit of INR 100000 on Wed Jul 28 00:43:29 IST 2021 was successful
+2021-07-28 00:45:12,358 [      LoginCustomer.java:main:76] - 12 deposit of INR 100000 on Wed Jul 28 00:45:12 IST 2021 was successful
+2021-07-28 00:46:24,185 [      LoginCustomer.java:main:101] - 10 withdraw of INR 100000 on Wed Jul 28 00:46:24 IST 2021 was successful
+2021-07-28 00:47:12,727 [      LoginCustomer.java:main:112] - 10 withdraw of INR 12500 on Wed Jul 28 00:47:12 IST 2021 was failed
+2021-07-28 00:47:39,932 [      LoginCustomer.java:main:112] - 10 withdraw of INR -5000 on Wed Jul 28 00:47:39 IST 2021 was failed
+2021-07-28 01:50:51,555 [BankingCustomerDAOImpl.java:main:108] - 12 transfer of INR 500 to 10 on Wed Jul 28 01:50:51 IST 2021 was successful
+2021-07-28 03:28:27,181 [BankingCustomerDAOImpl.java:main:108] - 2 transfer of INR 1 to 10 on Wed Jul 28 03:28:27 IST 2021 was successful
+2021-07-28 03:29:11,009 [      LoginCustomer.java:main:77] - 2 deposit of INR 10000 on Wed Jul 28 03:29:11 IST 2021 was successful
+2021-07-28 03:29:17,329 [      LoginCustomer.java:main:113] - 2 withdraw of INR 100 on Wed Jul 28 03:29:17 IST 2021 was failed
+2021-07-28 03:35:21,154 [      LoginCustomer.java:main:76] - 12 deposit of INR 10000 on Wed Jul 28 03:35:21 IST 2021 was successful
+2021-07-28 03:35:43,845 [BankingCustomerDAOImpl.java:main:108] - 12 transfer of INR 100 to 2 on Wed Jul 28 03:35:43 IST 2021 was successful
+2021-07-28 20:39:47,612 [BankingCustomerDAOImpl.java:main:110] - 12 transfer of INR 300 to 10 on Wed Jul 28 20:39:47 IST 2021 was successful
+2021-07-28 20:40:06,007 [      LoginCustomer.java:main:76] - 12 deposit of INR 300 on Wed Jul 28 20:40:06 IST 2021 was successful
+2021-07-28 20:40:24,549 [      LoginCustomer.java:main:101] - 12 withdraw of INR 400 on Wed Jul 28 20:40:24 IST 2021 was successful
+2021-07-29 14:16:51,512 [      LoginCustomer.java:main:102] - 12 withdraw of INR 400 on Thu Jul 29 14:16:51 IST 2021 was successful
+2021-07-29 17:56:50,133 [BankingCustomerDAOImpl.java:main:110] - 12 transfer of INR 600 to 10 on Thu Jul 29 17:56:50 IST 2021 was successful
+2021-07-29 17:58:40,853 [      LoginCustomer.java:main:77] - 12 deposit of INR 600 on Thu Jul 29 17:58:40 IST 2021 was successful
+2021-07-29 17:59:10,074 [      LoginCustomer.java:main:102] - 12 withdraw of INR 1600 on Thu Jul 29 17:59:10 IST 2021 was successful
